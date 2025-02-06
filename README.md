@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Hsisou</h1>
-<h3 align="center">Software Engineer Student with a passion for data engineering sharing about my learnings in tech</h3>
+<h3 align="center">Software Engineer Student sharing about my learnings in tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinahsisou&label=Profile%20views&color=0e75b6&style=flat" alt="dinahsisou" /> </p>
 
